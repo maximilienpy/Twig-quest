@@ -1,0 +1,13 @@
+{
+    "name": "mp/twigquest",
+    "description": "Twig",
+    "authors": [
+        {
+            "name": "maximilienpy",
+            "email": "max314116@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
